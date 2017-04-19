@@ -6,7 +6,8 @@ body{
 }
 h1{
   color: red;
-  font-family: sans-serif;
+  font-family: Impact, Charcoal, sans-serif;
+  font-size: 5rem;
 }
 .info{
   color: white;
