@@ -13,3 +13,6 @@ h1{
   color: white;
   font-family: sans-serif;
 }
+img{
+  border-style: groove;
+}
